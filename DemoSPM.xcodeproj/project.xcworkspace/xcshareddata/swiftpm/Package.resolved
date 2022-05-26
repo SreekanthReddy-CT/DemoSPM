@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "testcicdtoken",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/YMLSreekanth/TestCICDToken",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0e8733a63a235c196d4c4771fbdb04b3207e2ab9"
+      }
+    }
+  ],
+  "version" : 2
+}
